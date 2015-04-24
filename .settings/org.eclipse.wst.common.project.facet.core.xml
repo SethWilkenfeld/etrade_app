@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="Google App Engine"/>
+  <fixed facet="jst.web"/>
+  <fixed facet="java"/>
+  <installed facet="java" version="1.8"/>
+  <installed facet="jst.web" version="2.4"/>
+  <installed facet="com.google.appengine.facet" version="1"/>
+</faceted-project>
